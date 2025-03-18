@@ -1,5 +1,5 @@
 🔍 Overview
-This project is part of the Codebasics Data Analysis Challenge, where sales data from multiple years is analyzed to uncover business trends and performance metrics. The dataset includes three years of quarterly sales records across different regions and product categories. The goal is to derive insights that help in business decision-making and strategy optimization.
+This project is about where sales data from 2017 to 2020 is analyzed to uncover business trends and performance metrics. The dataset includes four years of atliqcompany sales records from different regions and product categories. The goal is to derive insights that help in business decision-making and strategy optimization.
 
 🚀 Features
 Data Cleaning & Preprocessing: Handling missing values, removing duplicates, and structuring data.
