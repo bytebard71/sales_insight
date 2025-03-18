@@ -1,0 +1,1 @@
+select distinct product_code FROM sales.transactions where market_code="Mark001";
